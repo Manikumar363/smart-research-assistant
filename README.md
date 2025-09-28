@@ -339,7 +339,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **GitHub Repository**: https://github.com/Ftdgufvfi/Hack_Rag
+- **GitHub Repository**: https://github.com/Manikumar363/smart-research-assistant
 - **Azure OpenAI Documentation**: https://docs.microsoft.com/en-us/azure/cognitive-services/openai/
 - **Pinecone Documentation**: https://docs.pinecone.io/
 - **MongoDB Atlas**: https://www.mongodb.com/cloud/atlas
