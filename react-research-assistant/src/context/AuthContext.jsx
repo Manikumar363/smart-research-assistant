@@ -4,7 +4,7 @@ const AuthContext = createContext()
 
 // API base URL - change this for production
 const API_BASE_URL = process.env.NODE_ENV === 'production' 
-  ? 'https://your-backend-production-url.com/api' 
+  ? 'https://smart-research-assistant-pt0p.onrender.com' 
   : 'http://localhost:5001/api'
 
 const initialState = {
